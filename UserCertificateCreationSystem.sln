@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserCertificateCreationSystem", "UserCertificateCreationSystem\UserCertificateCreationSystem.csproj", "{987A8FC7-6AFD-4702-8E7B-655A53524C6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserCertificateCreationSystem.Services", "UserCertificateCreationSystem.Services\UserCertificateCreationSystem.Services.csproj", "{345F9FA2-F113-4AB3-AD61-50240BB1C27B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserCertificateCreationSystem.Repository", "UserCertificateCreationSystem.Repository\UserCertificateCreationSystem.Repository.csproj", "{5A9C5FF0-981B-4FF7-BAF3-DC9B439EDCC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserCertificateCreationSystem.Model", "UserCertificateCreationSystem.Model\UserCertificateCreationSystem.Model.csproj", "{09DB36F0-0B74-4D9E-A35D-F7915A0847F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserCertificateCreationSystem.Common", "UserCertificateCreationSystem.Common\UserCertificateCreationSystem.Common.csproj", "{3B52164D-2EA5-469F-884E-8C69BB1E8277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987A8FC7-6AFD-4702-8E7B-655A53524C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987A8FC7-6AFD-4702-8E7B-655A53524C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987A8FC7-6AFD-4702-8E7B-655A53524C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987A8FC7-6AFD-4702-8E7B-655A53524C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345F9FA2-F113-4AB3-AD61-50240BB1C27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345F9FA2-F113-4AB3-AD61-50240BB1C27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345F9FA2-F113-4AB3-AD61-50240BB1C27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345F9FA2-F113-4AB3-AD61-50240BB1C27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9C5FF0-981B-4FF7-BAF3-DC9B439EDCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9C5FF0-981B-4FF7-BAF3-DC9B439EDCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9C5FF0-981B-4FF7-BAF3-DC9B439EDCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9C5FF0-981B-4FF7-BAF3-DC9B439EDCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DB36F0-0B74-4D9E-A35D-F7915A0847F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DB36F0-0B74-4D9E-A35D-F7915A0847F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DB36F0-0B74-4D9E-A35D-F7915A0847F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DB36F0-0B74-4D9E-A35D-F7915A0847F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B52164D-2EA5-469F-884E-8C69BB1E8277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B52164D-2EA5-469F-884E-8C69BB1E8277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B52164D-2EA5-469F-884E-8C69BB1E8277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B52164D-2EA5-469F-884E-8C69BB1E8277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF203AA4-E4E2-4E97-A50C-E71718262BF1}
+	EndGlobalSection
+EndGlobal
